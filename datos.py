@@ -29,7 +29,6 @@ def guardar_orden(
     estado,
     observacion
 ):
-
     libro = load_workbook("datos/ordenes.xlsx")
 
     hoja = libro["Ordenes"]
