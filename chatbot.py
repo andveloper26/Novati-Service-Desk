@@ -395,5 +395,4 @@ escribir_bot("2️. Consultar Estado")
 
 escribir_bot("3️. Hablar con un Técnico")
 
-
 ventana.mainloop()
